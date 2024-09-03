@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">I'm a frontend engineer with <br><br>- 🔭 I’m previously working as frontend engineer at Cermati.com and currently open to work<br>- 📚 I'm currently learning Hono, Bun & Blender<br>- ⚡ In my free time I like to explore local street food<br>- 🎮 I'm currently starting elden ring dlc, and hopefully can jump to black myth: wukong ASAP</p>
+<p align="left">I'm a frontend engineer with <br><br>- 🔭 I’m previously working as frontend engineer at <a href="https://www.cermati.com/">Cermati</a> and currently open to work<br>- 📚 I'm currently learning Hono, Bun & Blender<br>- ⚡ In my free time I like to explore local street food<br>- 🎮 I'm currently starting elden ring dlc, and hopefully can jump to black myth: wukong ASAP</p>
 
 ###
 
